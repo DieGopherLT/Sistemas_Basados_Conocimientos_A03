@@ -6,4 +6,4 @@
 - Marifer Toribio Torres
 - Diego López Torres 
 
-Código fuente de la actividad.
+Código fuente del sistema experto que se va armando progresivamente con las actividades.
