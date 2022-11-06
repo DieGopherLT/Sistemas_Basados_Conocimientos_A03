@@ -1,4 +1,4 @@
-# Activdad 03
+# Sistema Experto
 
 ## Sistemas basados en conocimientos
 
